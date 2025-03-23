@@ -4,7 +4,7 @@ Captain Orion: Lost in the Stars - Technical Documentation
 1. Where the Code is Hosted
 ---------------------------
 The source code for "Captain Orion: Lost in the Stars" is hosted on GitHub at the following URL:
-[Insert your GitHub repository URL here, e.g., https://github.com/yourusername/CaptainOrionGame].
+https://github.com/FidaHussain110/CaptainOrionGame
 The repository contains all game files, including this documentation, in a non-zipped format for public access.
 
 2. External Services
@@ -57,7 +57,7 @@ No additional frameworks, libraries, or dependencies are required beyond a stand
   2. Go to the "Files" tab and upload all `.py` files (`main.py`, `chapter1.py`, etc.).
   3. Test by opening `main.py` and clicking "Run" to verify functionality.
   4. Go to the "Consoles" tab, select "Start a new console" > "Custom."
-  5. Name the console (e.g., "OrionGame") and enter: `python3.7 /home/yourusername/main.py`.
+  5. Name the console (e.g., "OrionGame") and enter: `python3.7 /home/HassanTalpur/main.py`.
   6. Share the console URL with others via the "Share with others" option.
 - **Troubleshooting**: If errors occur (e.g., "ModuleNotFoundError"), ensure all files are uploaded and paths are correct.
 
@@ -90,7 +90,7 @@ No additional frameworks, libraries, or dependencies are required beyond a stand
   4. Run: `python main.py`.
   5. Follow the on-screen prompts to make choices (e.g., "1" to search the cockpit, "yes" to decode a message).
 - **Hosted Execution (PythonAnywhere)**:
-  1. Upload all `.py` files to your PythonAnywhere account under `/home/yourusername/`.
+  1. Upload all `.py` files to your PythonAnywhere account under `/home/HassanTalpur/`.
   2. Open a console and run: `python3.7 /home/yourusername/main.py`.
   3. Interact with the game via the console interface.
 - **Gameplay Tips**:
