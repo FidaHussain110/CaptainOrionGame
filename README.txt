@@ -46,19 +46,20 @@ No additional frameworks, libraries, or dependencies are required beyond a stand
 6. How to Run/Build/Deploy the Program
 --------------------------------------
 - **Running Locally**:
-  1. Clone the repository: `git clone [your GitHub URL]`.
+  1. Clone the repository: `git clone https://github.com/FidaHussain110/CaptainOrionGame`.
   2. Navigate to the project directory: `cd CaptainOrionGame`.
   3. Ensure all files (`main.py`, `chapter1.py`, etc.) are in the same directory.
   4. Run the game: `python main.py` (or `python3 main.py` on some systems).
   - The game will start in the terminal, prompting the player for input at each step.
 - **Building**: No compilation is required as Python is an interpreted language. Ensure Python 3.7+ is installed.
 - **Deploying on PythonAnywhere**:
-  1. Create an account at [pythonanywhere.com](https://www.pythonanywhere.com).
+  1. Create an account at (https://www.pythonanywhere.com).
   2. Go to the "Files" tab and upload all `.py` files (`main.py`, `chapter1.py`, etc.).
   3. Test by opening `main.py` and clicking "Run" to verify functionality.
   4. Go to the "Consoles" tab, select "Start a new console" > "Custom."
   5. Name the console (e.g., "OrionGame") and enter: `python3.7 /home/HassanTalpur/main.py`.
   6. Share the console URL with others via the "Share with others" option.
+
 - **Troubleshooting**: If errors occur (e.g., "ModuleNotFoundError"), ensure all files are uploaded and paths are correct.
 
 7. Overview of the Architecture
@@ -91,7 +92,7 @@ No additional frameworks, libraries, or dependencies are required beyond a stand
   5. Follow the on-screen prompts to make choices (e.g., "1" to search the cockpit, "yes" to decode a message).
 - **Hosted Execution (PythonAnywhere)**:
   1. Upload all `.py` files to your PythonAnywhere account under `/home/HassanTalpur/`.
-  2. Open a console and run: `python3.7 /home/yourusername/main.py`.
+  2. Open a console and run: `python3.7 /home/HassanTalpur/main.py`.
   3. Interact with the game via the console interface.
 - **Gameplay Tips**:
   - Answer prompts with numbers (e.g., "1") or text (e.g., "yes") as indicated.
